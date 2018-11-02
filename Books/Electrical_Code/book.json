@@ -1,0 +1,21 @@
+{
+    "root": "./",
+    "title": "Electrical Code Calculations",
+    "author": "Sean Campbell",
+    "language": "en",
+    "description": "A working guide to handling calculations that involve the electrical code here in Canada.",
+    "plugins": [
+        "katex",
+        "livereload",
+        "search",
+        "flow",
+        "fontsettings"
+    ],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 2
+        }
+    }
+}
